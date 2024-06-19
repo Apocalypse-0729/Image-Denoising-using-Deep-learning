@@ -56,7 +56,7 @@ The input to the DCE-Net is a low-light image while the outputs are a set of pix
 ### Training and Testing of data-
 ![Alt text](https://i.ibb.co/zSFRNVz/DCE-Training-and-Testing.png)
 
-### Average PSNR value-
+### PSNR value-
 ![Alt text](https://i.ibb.co/0fSjMrR/DCE-PSNR.png)
  
 
